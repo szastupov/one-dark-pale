@@ -662,7 +662,6 @@
       "name": "Headings",
       "scope": "markup.heading",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#e06c75"
       }
     },
