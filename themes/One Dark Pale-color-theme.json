@@ -115,13 +115,6 @@
       }
     },
     {
-      "name": "c++ function",
-      "scope": "meta.function.c",
-      "settings": {
-        "foreground": "#e06c75"
-      }
-    },
-    {
       "name": "c++ control",
       "scope": "keyword.control.cpp",
       "settings": {
@@ -683,15 +676,7 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#d19a66"
-      }
-    },
-    {
-      "name": "Bold",
-      "scope": "punctuation.definition.bold",
-      "settings": {
-        "foreground": "#e5c07b"
+        "fontStyle": "bold"
       }
     },
     {
@@ -726,14 +711,7 @@
       "name": "[VSCODE-CUSTOM] Markdown heading setext",
       "scope": "markup.heading.setext",
       "settings": {
-        "foreground": "#ABB2BF"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
-      "scope": "punctuation.definition.bold.markdown",
-      "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d19a66"
       }
     },
     {
