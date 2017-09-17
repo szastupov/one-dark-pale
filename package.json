@@ -16,5 +16,12 @@
         "path": "./themes/One Dark Pale-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szastupov/one-dark-pale.git"
+  },
+  "bugs": {
+    "url": "https://github.com/szastupov/one-dark-pale/issues"
   }
 }
