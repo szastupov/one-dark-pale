@@ -1,6 +1,6 @@
 # One Dark Pale
 
-Do you like aesthetics of One Dark but not satisfied with existing themes? Your Javascript code is all **RED** and makes your eyes bleed?
+Do you enjoy the aesthetics of One Dark the redness of your JavaScript code makes your eyes bleed?
 
 Well, try One Dark Pale 😉
 
