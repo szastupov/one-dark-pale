@@ -1,22 +1,20 @@
 {
-    "name": "one-dark-pale",
-    "displayName": "One Dark Pale",
-    "description": "One Dark theme without much redness",
-    "version": "0.0.1",
-    "publisher": "szastupov",
-    "engines": {
-        "vscode": "^1.15.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "One Dark Pale",
-                "uiTheme": "vs-dark",
-                "path": "./themes/One Dark Pale-color-theme.json"
-            }
-        ]
-    }
+  "name": "one-dark-pale",
+  "displayName": "One Dark Pale",
+  "description": "One Dark theme without sane colors",
+  "version": "0.0.1",
+  "publisher": "szastupov",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Pale",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Pale-color-theme.json"
+      }
+    ]
+  }
 }
