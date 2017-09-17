@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "one-dark-pale"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# One Dark Pale
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Do you like aesthetics of One Dark but not satisfied with existing themes? Your Javascript code is all **RED** and makes your eyes bleed?
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Well, try One Dark Pale 😉
 
-**Enjoy!**
+## Javascript
+
+No more red all over your JavaScript!
+![js screenshot](static/js.png)
+
+Functions are carefully colored to maintain visual hierarchy.
+![js screenshot](static/js2.png)
+
+
+## Python
+
+Dimmed docstrings, calm colors.
+![python screenshot](static/python.png)
