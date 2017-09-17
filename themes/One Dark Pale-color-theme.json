@@ -136,6 +136,13 @@
       }
     },
     {
+      "name": "js super",
+      "scope": "variable.language.super.js",
+      "settings": {
+        "foreground": "#61afef"
+      }
+    },
+    {
       "name": "js/ts import keyword",
       "scope": "keyword.operator.expression.import",
       "settings": {
@@ -681,13 +688,6 @@
     },
     {
       "name": "Italic",
-      "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
-      "settings": {
-        "foreground": "#c678dd"
-      }
-    },
-    {
-      "name": "Italic",
       "scope": "emphasis md",
       "settings": {
         "foreground": "#c678dd"
@@ -942,7 +942,10 @@
     },
     {
       "name": "shell variable",
-      "scope": "variable.other.normal.shell",
+      "scope": [
+        "variable.other.normal.shell",
+        "variable.other.positional.shell"
+      ],
       "settings": {
         "foreground": "#e06c75"
       }
