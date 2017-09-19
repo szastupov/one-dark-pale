@@ -534,6 +534,13 @@
       }
     },
     {
+      "name": "Support",
+      "scope": "support.function",
+      "settings": {
+        "foreground": "#56b6c2"
+      }
+    },
+    {
       "name": "Support type",
       "scope": "support.type.property-name",
       "settings": {
