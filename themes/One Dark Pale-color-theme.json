@@ -261,7 +261,10 @@
     },
     {
       "name": "comment",
-      "scope": "comment.line.double-slash,comment.block.documentation"
+      "scope": "comment.line.double-slash,comment.block.documentation",
+      "settings": {
+        "fontStyle": "normal"
+      }
     },
     {
       "name": "js/ts json",
@@ -639,14 +642,16 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#61afef",
+        "fontStyle": "normal"
       }
     },
     {
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "foreground": "#d19a66"
+        "foreground": "#d19a66",
+        "fontStyle": "normal"
       }
     },
     {
