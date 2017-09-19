@@ -260,13 +260,6 @@
       }
     },
     {
-      "name": "comment",
-      "scope": "comment.line.double-slash,comment.block.documentation",
-      "settings": {
-        "fontStyle": "normal"
-      }
-    },
-    {
       "name": "js/ts json",
       "scope": "support.constant.json",
       "settings": {
@@ -642,16 +635,14 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#61afef",
-        "fontStyle": "normal"
+        "foreground": "#61afef"
       }
     },
     {
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "foreground": "#d19a66",
-        "fontStyle": "normal"
+        "foreground": "#d19a66"
       }
     },
     {
