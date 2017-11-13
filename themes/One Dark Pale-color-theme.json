@@ -61,20 +61,27 @@
     "titleBar.inactiveBackground": "#282c34",
     "notification.background": "#21252b",
     "debugToolBar.background": "#21252b",
-    "statusBar.debuggingBackground": "#21252b"
+    "statusBar.debuggingBackground": "#21252b",
+    "gitDecoration.modifiedResourceForeground": "#d19a66",
+    "gitDecoration.untrackedResourceForeground": "#98c379",
+    "gitDecoration.deletedResourceForeground": "#c24038",
+    "terminal.ansiBlack": "#2D3139",
+    "terminal.ansiBlue": "#2e8ccf",
+    "terminal.ansiGreen": "#98c379ff",
+    "terminal.foreground": "#C8C8C8",
+    "terminal.ansiYellow": "#d19a66"
   },
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#bbbbbbff",
-        "background": "#282c34ff"
+        "foreground": "#bbbbbbff"
       }
     },
     {
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#5c637",
+        "foreground": "#5c6370",
         "fontStyle": "italic"
       }
     },
@@ -808,7 +815,6 @@
       "name": "Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "background": "#e05252",
         "foreground": "#FFFFFF"
       }
     },
@@ -816,7 +822,6 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "background": "#e05252",
         "foreground": "#FFFFFF"
       }
     },
@@ -824,7 +829,6 @@
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#d27b53",
         "foreground": "#FFFFFF"
       }
     },
@@ -832,7 +836,6 @@
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "background": "#747369",
         "foreground": "#FFFFFF"
       }
     },
