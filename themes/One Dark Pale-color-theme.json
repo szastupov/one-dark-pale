@@ -73,11 +73,6 @@
   },
   "tokenColors": [
     {
-      "settings": {
-        "foreground": "#bbbbbbff"
-      }
-    },
-    {
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
@@ -176,6 +171,13 @@
       "scope": "variable.other.constant",
       "settings": {
         "foreground": "#d19a66"
+      }
+    },
+    {
+      "name": "js variable readwrite",
+      "scope": "variable.other.readwrite",
+      "settings": {
+        "foreground": "#bbbbbb"
       }
     },
     {
