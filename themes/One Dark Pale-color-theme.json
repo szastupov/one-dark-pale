@@ -672,7 +672,7 @@
       "name": "Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#e06c75"
+        "fontStyle": "bold"
       }
     },
     {
@@ -680,7 +680,6 @@
       "scope":
         "markup.heading punctuation.definition.heading, entity.name.section",
       "settings": {
-        "foreground": "#61afef"
       }
     },
     {
@@ -708,14 +707,12 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#E06C75"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#E06C75"
       }
     },
     {
