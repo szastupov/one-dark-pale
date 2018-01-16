@@ -355,16 +355,6 @@
       }
     },
     {
-      "name": "python self",
-      "scope": [
-        "variable.parameter.function.language.special.self.python",
-        "variable.language.special.self.python"
-      ],
-      "settings": {
-        "foreground": "#e06c75"
-      }
-    },
-    {
       "name": "python type",
       "scope": "support.type.python",
       "settings": {
@@ -920,8 +910,7 @@
       "scope":
         "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
       "settings": {
-        "foreground": "#e06c75",
-        "fontStyle": "italic"
+        "foreground": "#e5c07b"
       }
     },
     {
