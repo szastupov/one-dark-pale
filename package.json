@@ -2,7 +2,7 @@
   "name": "one-dark-pale",
   "displayName": "One Dark Pale",
   "description": "One Dark theme with sane colors",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "publisher": "szastupov",
   "engines": {
     "vscode": "^1.15.0"
