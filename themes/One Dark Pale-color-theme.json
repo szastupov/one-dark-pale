@@ -355,6 +355,16 @@
       }
     },
     {
+      "name": "python self",
+      "scope": [
+        "variable.parameter.function.language.special.self.python",
+        "variable.language.special.self.python"
+      ],
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
       "name": "python type",
       "scope": "support.type.python",
       "settings": {
@@ -669,8 +679,7 @@
       "name": "Headings",
       "scope":
         "markup.heading punctuation.definition.heading, entity.name.section",
-      "settings": {
-      }
+      "settings": {}
     },
     {
       "name": "Units",
@@ -696,14 +705,12 @@
     {
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
-      "settings": {
-      }
+      "settings": {}
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
-      "settings": {
-      }
+      "settings": {}
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading setext",
