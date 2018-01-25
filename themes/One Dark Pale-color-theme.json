@@ -30,7 +30,7 @@
     "editorIndentGuide.background": "#3b4048",
     "editorLineNumber.foreground": "#495162",
     "editorRuler.foreground": "#abb2bf26",
-    "editorError.foreground": "#c24038",
+    "editorError.foreground": "#e06c75",
     "editorMarkerNavigation.background": "#21252b",
     "editorSuggestWidget.background": "#21252b",
     "editorSuggestWidget.border": "#181a1f",
@@ -63,12 +63,13 @@
     "statusBar.debuggingBackground": "#21252b",
     "gitDecoration.modifiedResourceForeground": "#d19a66",
     "gitDecoration.untrackedResourceForeground": "#98c379",
-    "gitDecoration.deletedResourceForeground": "#c24038",
+    "gitDecoration.deletedResourceForeground": "#e06c75",
     "terminal.ansiBlack": "#2D3139",
     "terminal.ansiBlue": "#2e8ccf",
     "terminal.ansiGreen": "#98c379ff",
     "terminal.foreground": "#C8C8C8",
-    "terminal.ansiYellow": "#B4881D"
+    "terminal.ansiYellow": "#B4881D",
+    "terminal.ansiRed": "#e06c75"
   },
   "tokenColors": [
     {
