@@ -549,13 +549,6 @@
     },
     {
       "name": "Support type",
-      "scope": "support.type.property-name",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
-      "name": "Support type",
       "scope": "support.constant.property-value",
       "settings": {
         "foreground": "#abb2bf"
@@ -843,20 +836,6 @@
         "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
       "settings": {
         "foreground": "#56B6C2"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] JSON Property Name",
-      "scope": "support.type.property-name.json",
-      "settings": {
-        "foreground": "#e06c75"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
-      "scope": "support.type.property-name.json punctuation",
-      "settings": {
-        "foreground": "#e06c75"
       }
     },
     {
