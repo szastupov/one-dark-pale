@@ -914,6 +914,12 @@
       "settings": {
         "foreground": "#e06c75"
       }
+    },
+    {
+      "scope": "entity.name.tag.yaml",
+      "settings": {
+        "foreground": "#bbbbbbff"
+      }
     }
   ]
 }
