@@ -182,6 +182,13 @@
       }
     },
     {
+      "name": "jsdoc variable",
+      "scope": "variable.other.jsdoc",
+      "settings": {
+        "foreground": "#bbbbbb"
+      }
+    },
+    {
       "name": "js embedded expression",
       "scope": "meta.embedded.line.js",
       "settings": {
