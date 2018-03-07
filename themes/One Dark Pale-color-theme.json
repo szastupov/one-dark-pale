@@ -69,7 +69,6 @@
     "titleBar.inactiveForeground": "#6b717d",
     "titleBar.activeBackground": "#282c34",
     "titleBar.inactiveBackground": "#282c34",
-    "notification.background": "#21252b",
     "debugToolBar.background": "#21252b",
     "statusBar.debuggingBackground": "#21252b",
     "terminal.ansiBlack": "#2D3139",
