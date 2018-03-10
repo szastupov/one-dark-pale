@@ -17,3 +17,8 @@ Functions are carefully colored to maintain visual hierarchy.
 
 Dimmed docstrings, calm colors.
 ![python screenshot](static/python.png)
+
+
+## Markdown
+
+![markdown screenshot](static/markdown.png)
