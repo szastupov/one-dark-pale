@@ -174,13 +174,6 @@
       }
     },
     {
-      "name": "js/ts variable.other.constant",
-      "scope": "variable.other.constant",
-      "settings": {
-        "foreground": "#d19a66"
-      }
-    },
-    {
       "name": "jsdoc variable",
       "scope": "variable.other.jsdoc",
       "settings": {
