@@ -2,12 +2,14 @@
   "name": "one-dark-pale",
   "displayName": "One Dark Pale",
   "description": "One Dark theme with sane colors",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "szastupov",
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -25,7 +27,12 @@
     "url": "https://github.com/szastupov/one-dark-pale/issues"
   },
   "icon": "static/icon.png",
-  "keywords": ["Vscode", "Theme", "Onedark", "one dark"],
+  "keywords": [
+    "Vscode",
+    "Theme",
+    "Onedark",
+    "one dark"
+  ],
   "__metadata": {
     "id": "3282a6af-a023-4840-81b3-9dd762c26331",
     "publisherDisplayName": "Stepan Zastupov",
