@@ -141,8 +141,7 @@
     },
     {
       "name": "js/ts italic",
-      "scope":
-        "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.language.super",
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.language.super",
       "settings": {
         "fontStyle": "italic"
       }
@@ -184,7 +183,7 @@
     },
     {
       "name": "js embedded expression",
-      "scope": "meta.embedded.line.js",
+      "scope": "meta.embedded.line.js,meta.embedded.line.ts",
       "settings": {
         "foreground": "#bbbbbb"
       }
@@ -211,31 +210,15 @@
       }
     },
     {
-      "name": "operator logical",
-      "scope": "keyword.operator.logical.js",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
-      "name": "operator bitwise",
-      "scope": "keyword.operator.bitwise",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
       "name": "support.constant.property-value.scss",
-      "scope":
-        "support.constant.property-value.scss,support.constant.property-value.css",
+      "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
         "foreground": "#d19a66"
       }
     },
     {
       "name": "css color standard name",
-      "scope":
-        "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
+      "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
       "settings": {
         "foreground": "#d19a66"
       }
@@ -255,24 +238,15 @@
       }
     },
     {
-      "name": "css property-name",
-      "scope": "support.type.vendored.property-name.css",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
       "name": "js/ts template-expression",
-      "scope":
-        "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
+      "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
       "settings": {
         "foreground": "#e06c75"
       }
     },
     {
       "name": "js/ts module",
-      "scope":
-        "support.module.node,support.type.object.module,support.module.node",
+      "scope": "support.module.node,support.type.object.module,support.module.node",
       "settings": {
         "foreground": "#e5c07b"
       }
@@ -286,8 +260,7 @@
     },
     {
       "name": "js/ts Keyword",
-      "scope":
-        "keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.ternary",
+      "scope": "keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.ternary",
       "settings": {
         "foreground": "#c678dd"
       }
@@ -314,35 +287,6 @@
       }
     },
     {
-      "name": "js operator",
-      "scope": "keyword.operator",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
-      "name": "js dom",
-      "scope": "support.type.object.dom",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
-      "name": "keyword.operator",
-      "scope": "keyword.operator.arithmetic,keyword.operator.comparison",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
-      "name": "C operator assignment",
-      "scope":
-        "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c",
-      "settings": {
-        "foreground": "#c678ddff"
-      }
-    },
-    {
       "name": "C punctuation",
       "scope": "punctuation.separator.delimiter.c",
       "settings": {
@@ -354,37 +298,6 @@
       "scope": "support.type.posix-reserved.c",
       "settings": {
         "foreground": "#57adb8"
-      }
-    },
-    {
-      "name": "keyword.operator.sizeof.c",
-      "scope": "keyword.operator.sizeof.c",
-      "settings": {
-        "foreground": "#C178DD"
-      }
-    },
-    {
-      "name": "python self",
-      "scope": [
-        "variable.parameter.function.language.special.self.python",
-        "variable.language.special.self.python"
-      ],
-      "settings": {
-        "foreground": "#e5c07b"
-      }
-    },
-    {
-      "name": "python type",
-      "scope": "support.type.python",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
-      "name": "python logical",
-      "scope": "keyword.operator.logical.python",
-      "settings": {
-        "foreground": "#c678dd"
       }
     },
     {
@@ -416,13 +329,6 @@
       }
     },
     {
-      "name": "Operators",
-      "scope": "keyword.operator",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
@@ -444,16 +350,8 @@
       }
     },
     {
-      "name": "Packages",
-      "scope": "token.package",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
       "name": "Functions",
-      "scope":
-        "entity.name.function, meta.require, support.function.any-method",
+      "scope": "entity.name.function, meta.require, support.function.any-method",
       "settings": {
         "foreground": "#61afef"
       }
@@ -522,17 +420,8 @@
       }
     },
     {
-      "name": "Storage JS TS",
-      "scope": "token.storage",
-      "settings": {
-        "foreground": "#c678dd"
-      }
-    },
-    {
-      "name":
-        "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
-      "scope":
-        "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
+      "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
+      "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
       "settings": {
         "foreground": "#C678DD"
       }
@@ -545,31 +434,10 @@
       }
     },
     {
-      "name": "Support",
-      "scope": "support.function",
-      "settings": {
-        "foreground": "#56b6c2"
-      }
-    },
-    {
-      "name": "Support type",
-      "scope": "support.constant.property-value",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
       "name": "Support type",
       "scope": "support.constant.font-name",
       "settings": {
         "foreground": "#d19a66"
-      }
-    },
-    {
-      "name": "Meta tag",
-      "scope": "meta.tag",
-      "settings": {
-        "foreground": "#abb2bf"
       }
     },
     {
@@ -584,13 +452,6 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "foreground": "#e5c07b"
-      }
-    },
-    {
-      "name": "Constant other symbol",
-      "scope": "constant.other.symbol",
-      "settings": {
-        "foreground": "#56b6c2"
       }
     },
     {
@@ -674,14 +535,12 @@
       "name": "Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#abb2bf",
         "fontStyle": "bold"
       }
     },
     {
       "name": "Headings",
-      "scope":
-        "markup.heading punctuation.definition.heading, entity.name.section",
+      "scope": "markup.heading punctuation.definition.heading, entity.name.section",
       "settings": {}
     },
     {
@@ -729,17 +588,14 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
-      "scope":
-        "markup.underline.link.markdown,markup.underline.link.image.markdown",
+      "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
       "settings": {
-        "foreground": "#ABB2BF",
         "fontStyle": "italic"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
-      "scope":
-        "string.other.link.title.markdown,string.other.link.description.markdown",
+      "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
         "foreground": "#61AFEF"
       }
@@ -809,37 +665,23 @@
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
-      "scope":
-        "source.json meta.structure.dictionary.json > string.quoted.json",
+      "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
         "foreground": "#E06C75"
       }
     },
     {
-      "name":
-        "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
-      "scope":
-        "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
+      "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
+      "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
         "foreground": "#E06C75"
       }
     },
     {
-      "name":
-        "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
-      "scope":
-        "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
+      "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
+      "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
         "foreground": "#98C379"
-      }
-    },
-    {
-      "name":
-        "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
-      "scope":
-        "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
-      "settings": {
-        "foreground": "#56B6C2"
       }
     },
     {
@@ -857,32 +699,10 @@
       }
     },
     {
-      "name": "parameter function js/ts",
-      "scope": "function.parameter",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
-      "name": "brace function",
-      "scope": "function.brace",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
       "name": "js ts this",
-      "scope":
-        "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
+      "scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
       "settings": {
         "foreground": "#e5c07b"
-      }
-    },
-    {
-      "name": "block scope",
-      "scope": "block.scope.end,block.scope.begin",
-      "settings": {
-        "foreground": "#abb2bf"
       }
     },
     {
