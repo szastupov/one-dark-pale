@@ -686,7 +686,7 @@
     },
     {
       "name": "python function decorator",
-      "scope": "entity.name.function.decorator.python",
+      "scope": "entity.name.function.decorator.python,meta.function.decorator.python",
       "settings": {
         "foreground": "#61afef"
       }
